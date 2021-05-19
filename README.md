@@ -1,6 +1,5 @@
-# Hamster
-
-Create a little hamster game in the console with the programming language Java. 
+# Hamster 
+# Create a little hamster game in the console with the programming language Java.  
 
 Your hamster can : 
 1. Turn right 
